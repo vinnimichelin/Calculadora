@@ -1,0 +1,1 @@
+Para utilizar a calculadora basta colocar um número de sua escolha no primeiro campo, outro número no segundo campo, selecionar a operação que será feita (soma, subtração, divisão ou multiplicação) e clicar em "Calculate".
